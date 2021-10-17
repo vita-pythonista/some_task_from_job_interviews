@@ -1,0 +1,104 @@
+1633898615906	geckodriver	INFO	Listening on 127.0.0.1:59177
+1633898619021	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\joyni\\AppData\\Local\\Temp\\rust_mozprofilekerB8d"
+1633898619371	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\joyni\\AppData\\Local\\Temp\\rust_mozprofilekerB8d\\search.json.mozlz4", (void 0)))
+1633898621424	Marionette	INFO	Listening on port 59185
+1633898621705	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://d2t77mnxyo7adj.cloudfront.net/v1/c.js?422291556643169, line 31: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1633898653244	Marionette	INFO	Stopped listening on port 59185
+JavaScript error: resource:///modules/Interactions.jsm, line 201: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+JavaScript error: chrome://remote/content/marionette/cert.js, line 55: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICertOverrideService.setDisableAllSecurityChecksAndLetAttackersInterceptMyData]
+1633898735967	geckodriver	INFO	Listening on 127.0.0.1:52059
+1633898739099	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\joyni\\AppData\\Local\\Temp\\rust_mozprofilexC5MWE"
+1633898739385	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\joyni\\AppData\\Local\\Temp\\rust_mozprofilexC5MWE\\search.json.mozlz4", (void 0)))
+1633898741312	Marionette	INFO	Listening on port 52067
+1633898741745	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://d2t77mnxyo7adj.cloudfront.net/v1/c.js?422291556643169, line 31: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1633898752378	Marionette	INFO	Stopped listening on port 52067
+JavaScript error: resource:///modules/Interactions.jsm, line 201: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+JavaScript error: chrome://remote/content/marionette/cert.js, line 55: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICertOverrideService.setDisableAllSecurityChecksAndLetAttackersInterceptMyData]
+1633898821886	geckodriver	INFO	Listening on 127.0.0.1:65391
+1633898824956	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\joyni\\AppData\\Local\\Temp\\rust_mozprofileTXVDWl"
+1633898825257	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\joyni\\AppData\\Local\\Temp\\rust_mozprofileTXVDWl\\search.json.mozlz4", (void 0)))
+1633898827383	Marionette	INFO	Listening on port 65399
+1633898827603	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://d2t77mnxyo7adj.cloudfront.net/v1/c.js?422291556643169, line 31: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1633898835924	Marionette	INFO	Stopped listening on port 65399
+JavaScript error: resource:///modules/Interactions.jsm, line 201: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+JavaScript error: chrome://remote/content/marionette/cert.js, line 55: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICertOverrideService.setDisableAllSecurityChecksAndLetAttackersInterceptMyData]
+1633899006528	geckodriver	INFO	Listening on 127.0.0.1:65503
+1633899009602	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\joyni\\AppData\\Local\\Temp\\rust_mozprofileK04yyw"
+1633899009886	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\joyni\\AppData\\Local\\Temp\\rust_mozprofileK04yyw\\search.json.mozlz4", (void 0)))
+1633899011757	Marionette	INFO	Listening on port 65511
+1633899012254	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://d2t77mnxyo7adj.cloudfront.net/v1/c.js?422291556643169, line 31: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1633899029013	Marionette	INFO	Stopped listening on port 65511
+JavaScript error: resource:///modules/Interactions.jsm, line 201: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+JavaScript error: chrome://remote/content/marionette/cert.js, line 55: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICertOverrideService.setDisableAllSecurityChecksAndLetAttackersInterceptMyData]
+1633899190171	geckodriver	INFO	Listening on 127.0.0.1:49221
+1633899193242	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\joyni\\AppData\\Local\\Temp\\rust_mozprofileLcVaOM"
+1633899193533	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\joyni\\AppData\\Local\\Temp\\rust_mozprofileLcVaOM\\search.json.mozlz4", (void 0)))
+1633899195440	Marionette	INFO	Listening on port 49229
+1633899195893	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://d2t77mnxyo7adj.cloudfront.net/v1/c.js?422291556643169, line 31: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1633899206682	Marionette	INFO	Stopped listening on port 49229
+JavaScript error: resource:///modules/Interactions.jsm, line 201: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+JavaScript error: chrome://remote/content/marionette/cert.js, line 55: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICertOverrideService.setDisableAllSecurityChecksAndLetAttackersInterceptMyData]
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1633899219471	geckodriver	INFO	Listening on 127.0.0.1:49319
+1633899222600	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\joyni\\AppData\\Local\\Temp\\rust_mozprofiletXyhiB"
+1633899222889	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\joyni\\AppData\\Local\\Temp\\rust_mozprofiletXyhiB\\search.json.mozlz4", (void 0)))
+1633899224771	Marionette	INFO	Listening on port 49327
+1633899225267	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://d2t77mnxyo7adj.cloudfront.net/v1/c.js?422291556643169, line 31: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1633899382758	Marionette	INFO	Stopped listening on port 49327
+JavaScript error: resource:///modules/Interactions.jsm, line 201: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+\Temp\\rust_mozprofile2dmeB8\\search.json.mozlz4", (void 0)))
+1633899253517	Marionette	INFO	Listening on port 49429
+1633899254001	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://d2t77mnxyo7adj.cloudfront.net/v1/c.js?422291556643169, line 31: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1633899278307	Marionette	INFO	Stopped listening on port 49429
+Marionette threw an error: [Exception... "Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICertOverrideService.setDisableAllSecurityChecksAndLetAttackersInterceptMyData]"  nsresult: "0x80040111 (NS_ERROR_NOT_AVAILABLE)"  location: "JS frame :: chrome://remote/content/marionette/cert.js :: allowAllCerts.disable :: line 55"  data: no]
+allowAllCerts.disable@chrome://remote/content/marionette/cert.js:55:23
+destroy@chrome://remote/content/shared/webdriver/Session.jsm:207:19
+GeckoDriver.prototype.deleteSession@chrome://remote/content/marionette/driver.js:2147:25
+GeckoDriver.prototype.quit@chrome://remote/content/marionette/driver.js:2647:8
+despatch@chrome://remote/content/marionette/server.js:306:40
+execute@chrome://remote/content/marionette/server.js:279:16
+onPacket/<@chrome://remote/content/marionette/server.js:252:20
+onPacket@chrome://remote/content/marionette/server.js:253:9
+_onJSONObjectReady/<@chrome://remote/content/marionette/transport.js:500:20
+
+JavaScript error: resource:///modules/Interactions.jsm, line 201: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+JavaScript error: chrome://remote/content/marionette/driver.js, line 2134: NS_ERROR_ILLEGAL_VALUE: Component returned failure code: 0x80070057 (NS_ERROR_ILLEGAL_VALUE) [nsIObserverService.removeObserver]
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1633899339903	geckodriver	INFO	Listening on 127.0.0.1:49527
+1633899342961	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\joyni\\AppData\\Local\\Temp\\rust_mozprofileNaqGy9"
+1633899343271	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\joyni\\AppData\\Local\\Temp\\rust_mozprofileNaqGy9\\search.json.mozlz4", (void 0)))
+1633899345674	Marionette	INFO	Listening on port 49536
+1633899346110	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://d2t77mnxyo7adj.cloudfront.net/v1/c.js?422291556643169, line 31: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1633899362373	Marionette	INFO	Stopped listening on port 49536
+JavaScript error: resource:///modules/Interactions.jsm, line 201: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+JavaScript error: chrome://remote/content/marionette/cert.js, line 55: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICertOverrideService.setDisableAllSecurityChecksAndLetAttackersInterceptMyData]
