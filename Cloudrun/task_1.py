@@ -1,4 +1,4 @@
-https://github.com/vita-pythonista/some_task_from_job_interviews.gitimport typing
+import typing
 
 
 class Date4Test:
